@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Somnath Kundu
+- 👋  I’m Somnath Kundu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to An Internship
